@@ -19,7 +19,7 @@
 }
 
 .App-header {
-	background-color: #282c34;
+	background-color: #b0b6c2;
 	min-height: 100vh;
 	display: flex;
 	flex-direction: column;
@@ -50,7 +50,7 @@
 }
 
 .controller {
-	background-color: #555;
+	background-color: #a39191;
 	margin: 0 1em;
 	border: 0.1px solid;
 	height: 3em;
